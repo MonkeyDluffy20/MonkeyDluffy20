@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SuryansH Pathania.
+- 👋 Hi, I’m Suryansh Pathania.
 - 👀 I’m interested in learning new things and growing myself.
 - 🌱 I’m currently a Data Science Intern.
 - 💞️ I’m looking to collaborate on Google Colab.
