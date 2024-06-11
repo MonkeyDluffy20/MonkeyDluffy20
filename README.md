@@ -6,7 +6,4 @@
 - 😄 Pronouns: HULK
 - ⚡ Fun fact: Learn to understand not to flaunt.
 
-<!---
-MonkeyDluffy20/MonkeyDluffy20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
