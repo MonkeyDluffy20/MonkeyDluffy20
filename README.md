@@ -1,6 +1,3 @@
-
-Hi there! I'm Suryansh Pathania 👋
-About Me
 Hello! I'm Suryansh Pathania, a passionate learner and an aspiring data scientist. I love exploring new concepts and continuously growing my skill set. Here's a bit more about me:
 
 - Interest: I'm deeply interested in learning new things and self-improvement.
