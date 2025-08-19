@@ -30,7 +30,7 @@ I'm working as a **Data Engineer**, gaining hands-on experience and honing my te
 <tr>
 <td width="50%">
 
-### 🔧 **Core Skills**
+### 🔧 **Core Data Engineering**
 - **ETL Pipelines** 🔄
   - Designing efficient data workflows
   - Data transformation & validation
@@ -39,8 +39,9 @@ I'm working as a **Data Engineer**, gaining hands-on experience and honing my te
   - Building scalable cloud pipelines
   - Automated data orchestration
 
-- **Schema Design** 🏗️
+- **Schema Design & Data Validation** 🏗️
   - Database optimization
+  - Data quality assurance
   - Performance tuning
 
 </td>
@@ -58,10 +59,12 @@ I'm working as a **Data Engineer**, gaining hands-on experience and honing my te
   <img src="https://media.giphy.com/media/3o7abrH8o4HMKEIHrq/giphy.gif" width="300"/>
 </p>
 
-- **Bus Queue Services** 📮 - Seamless data communication
-- **Database Optimization** 🗄️ - Performance & scalability focus  
-- **Apache Spark** ⚡ - Big data processing powerhouse
-- **Apache Kafka** 🌊 - Real-time data streaming
+- **Backend Development:** Python | FastAPI | Flask 🐍
+- **Framework:** Flask | FastAPI | Apache Spark | ML Frameworks ⚡
+- **Database:** SQL | NoSQL | Pinecone | ChromaDB | MongoDB 🗄️
+- **Cloud & DevOps:** Microsoft Azure | Docker | Linux | Git | GitHub ☁️
+- **Data Engineering:** Azure Data Factory (ADF) | ETL | Data Architect | Data Validation 🔧
+- **APIs & Communication:** Postman | SendGrid 📡
 
 ---
 
@@ -84,19 +87,26 @@ I'm working as a **Data Engineer**, gaining hands-on experience and honing my te
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)
 
 ### Cloud & Data Platforms
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
-### Tools & Technologies
+### Databases & Vector Stores
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=Pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+
+### Tools & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=Apache-Airflow&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 
 </div>
 
@@ -163,10 +173,12 @@ Let's create something amazing together!
 
 ---
 
-## 🐍 **GitHub Snake**
+## 🐍 **GitHub Activity**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <br/>
+  <em><b>Happy coding!</b> Feel free to reach out if you want to collaborate!</em>
 </div>
 
 ---
