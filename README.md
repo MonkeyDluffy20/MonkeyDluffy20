@@ -129,14 +129,6 @@ Let's create something amazing together!
 
 ---
 
-## 📈 **Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MonkeyDluffy20&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=73daca&point=f8cc47&area=true&hide_border=false" alt="Activity Graph"/>
-</div>
-
----
-
 ## 📫 **Connect With Me**
 
 <div align="center">
