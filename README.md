@@ -71,12 +71,12 @@ I'm working as a **Data Engineer**, gaining hands-on experience and honing my te
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonkeyDluffy20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyDluffy20&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeyDluffy20&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -132,7 +132,7 @@ Let's create something amazing together!
 ## 📈 **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=73daca&point=f8cc47&area=true&hide_border=false" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MonkeyDluffy20&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=73daca&point=f8cc47&area=true&hide_border=false" alt="Activity Graph"/>
 </div>
 
 ---
@@ -141,7 +141,7 @@ Let's create something amazing together!
 
 <div align="center">
 
-<a href="www.linkedin.com/in/suryansh-pathania">
+<a href="https://www.linkedin.com/in/suryansh-pathania/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
 <a href="mailto:suryanshpathania45@gmail.com">
@@ -181,7 +181,8 @@ Let's create something amazing together!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MonkeyDluffy20&color=brightgreen&style=flat-square&label=Profile+Views&animation=wave" alt="Profile Views"/>
+  <br/><br/>
   
   **Let's build, learn, and grow together!** 🚀
   
@@ -197,4 +198,4 @@ Let's create something amazing together!
 
 ---
 
-*⭐️ From [Suryansh Pathania](https://github.com/YOUR_USERNAME)*
+*⭐️ From [Suryansh Pathania](https://github.com/MonkeyDluffy20)*
